@@ -1,5 +1,5 @@
 {
-    "name": "anydoor",
+    "name": "anydoor-song",
     "version": "1.0.0",
     "description": "tiny nodejs web server",
     "main": "src/app.js",
@@ -16,7 +16,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Samaritan89/anydoor.git"
+        "url": "git+https://github.com/superjunjin/anydoor.git"
     },
     "keywords": [
         "static",
